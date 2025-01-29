@@ -14,8 +14,8 @@ library(dplyr)
 
 ## Import data
 ```{r,warning=FALSE}
-training_set <- read.csv("C:/Users/chaoh/Desktop/TEMP/PML/Prediction_PML/pml-training.csv")
-testing_set <-read.csv("C:/Users/chaoh/Desktop/TEMP/PML/Prediction_PML/pml-testing.csv")
+training_set <- read.csv("C:/Users/chaoh/Desktop/TEMP/PML/Prediction_PML/Practical-Machine-Learning-Project/pml-training.csv")
+testing_set <-read.csv("C:/Users/chaoh/Desktop/TEMP/PML/Prediction_PML/Practical-Machine-Learning-Project/pml-testing.csv")
 ```
 
 
